@@ -4,7 +4,7 @@ import SendMessage from "./SendMessage";
 import Message from "./Message";
 
 
-const MINS_DURATION = 1;
+const MINS_DURATION = 15;
 
 function Messages () {
     const { user } = useMoralis();
